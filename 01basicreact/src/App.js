@@ -1,7 +1,11 @@
+import Coffee from './Coffee'
 
-function App() {
+function App() {  
   return (
-    <h1>First Project with React js</h1>
+      <>
+      <Coffee/>
+      <h2>Learn React With AkashTech</h2>
+      </>
   );
 }
 
