@@ -1,7 +1,7 @@
 // In context file we write pure java script code
 import React from "react";
 
-const UserContext = React.createContext()
+const UserContext = React.createContext() // initially value koi feed nhi hai eska second type 09 me hai theme.js me jisme initially object liya gya hai
 
 export default UserContext;
 
